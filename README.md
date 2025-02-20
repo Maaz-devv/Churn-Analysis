@@ -6,7 +6,17 @@
 This Power BI dashboard analyzes customer churn for a telecommunications company. The goal is to uncover key trends, identify reasons behind churn, and provide actionable insights to help reduce churn rates and improve customer retention strategies.  
 
 ---
-
+## 🗃️ Data Structure & Initial Deck
+- **Database Structure:** Consists of six tables:
+  - **Core_transactions**
+  - **Customer_details**
+  - **Geographic_details**
+  - **Services_details**
+  - **Payment_details**
+  - **Measure_Table**
+- **Total Records:** 7,043 rows
+- **ERD:** Displays table relationships and primary keys for analysis.
+---
 ## 📈 Key Metrics  
 The top-level KPIs and visual insights include:  
 - **Total Customers:** 7,043  
