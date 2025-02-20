@@ -1,21 +1,22 @@
 # 📊 Telco Churn Analysis 
 ## 📖 Table of Contents  
 
-- [📌 Overview](#-overview)  
-- [🗃️ Data Structure & Initial Deck](#data-structure--initial-deck)  
-- [📈 Key Metrics](#-key-metrics)  
-- [📊 Visual Insights](#-visual-insights)  
+- [📌 Overview](#overview)  
+- [🗃️ Data Structure](#data-structure)  
+- [📈 Key Metrics](#key-metrics)  
+- [📊 Visual Insights](#visual-insights)  
   - [1️⃣ Churn by Internet Service](#1️⃣-churn-by-internet-service)  
   - [2️⃣ Churn by Payment Method](#2️⃣-churn-by-payment-method)  
   - [3️⃣ Customers Churned by Tenure Month Range](#3️⃣-customers-churned-by-tenure-month-range)  
   - [4️⃣ CLTV of Churned Customers by Age](#4️⃣-cltv-of-churned-customers-by-age)  
   - [5️⃣ Top Churn Reasons](#5️⃣-top-churn-reasons)  
   - [6️⃣ Churned Customers by Age Range](#6️⃣-churned-customers-by-age-range)  
-- [🔮 Predictive Enhancements](#-predictive-enhancements)  
-- [📌 Recommendations](#-recommendations)  
-- [📂 Deliverables](#-deliverables)  
-- [🎯 Skills Developed](#-skills-developed)  
-- [📌 Conclusion](#-conclusion)  
+- [🔮 Predictive Enhancements](#predictive-enhancements)  
+- [📌 Recommendations](#recommendations)  
+- [📂 Deliverables](#deliverables)  
+- [🎯 Skills Developed](#skills-developed)  
+- [📌 Conclusion](#conclusion)  
+
 
 
 
@@ -24,7 +25,7 @@ This Power BI dashboard analyzes customer churn for a telecommunications company
 📊 An interactive PowerBI dashboard can be downloaded [here](https://github.com/Maaz-devv/Churn-Analysis/blob/main/Telecom%20Churn%20Analysis.pbix).<br>
 
 ---
-## 🗃️ Data Structure & Initial Deck
+## 🗃️ Data Structure
 - **Database Structure:** Consists of six tables:
   - **Core_transactions**
   - **Customer_details**
