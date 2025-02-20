@@ -1,6 +1,23 @@
-# Churn-Analysis
+# 📊 Telco Churn Analysis 
+## 📖 Table of Contents  
 
-# 📊 Telco Churn Analysis - Power BI Dashboard
+- [📌 Overview](#-overview)  
+- [🗃️ Data Structure & Initial Deck](#data-structure--initial-deck)  
+- [📈 Key Metrics](#-key-metrics)  
+- [📊 Visual Insights](#-visual-insights)  
+  - [1️⃣ Churn by Internet Service](#1️⃣-churn-by-internet-service)  
+  - [2️⃣ Churn by Payment Method](#2️⃣-churn-by-payment-method)  
+  - [3️⃣ Customers Churned by Tenure Month Range](#3️⃣-customers-churned-by-tenure-month-range)  
+  - [4️⃣ CLTV of Churned Customers by Age](#4️⃣-cltv-of-churned-customers-by-age)  
+  - [5️⃣ Top Churn Reasons](#5️⃣-top-churn-reasons)  
+  - [6️⃣ Churned Customers by Age Range](#6️⃣-churned-customers-by-age-range)  
+- [🔮 Predictive Enhancements](#-predictive-enhancements)  
+- [📌 Recommendations](#-recommendations)  
+- [📂 Deliverables](#-deliverables)  
+- [🎯 Skills Developed](#-skills-developed)  
+- [📌 Conclusion](#-conclusion)  
+
+
 
 ## 📌 Overview  
 This Power BI dashboard analyzes customer churn for a telecommunications company. The goal is to uncover key trends, identify reasons behind churn, and provide actionable insights to help reduce churn rates and improve customer retention strategies.<br>
