@@ -3,7 +3,7 @@
 # 📊 Telco Churn Analysis - Power BI Dashboard
 
 ## 📌 Overview  
-This Power BI dashboard analyzes customer churn for a telecommunications company. The goal is to uncover key trends, identify reasons behind churn, and provide actionable insights to help reduce churn rates and improve customer retention strategies.  
+This Power BI dashboard analyzes customer churn for a telecommunications company. The goal is to uncover key trends, identify reasons behind churn, and provide actionable insights to help reduce churn rates and improve customer retention strategies.
 
 ---
 ## 🗃️ Data Structure & Initial Deck
@@ -15,7 +15,11 @@ This Power BI dashboard analyzes customer churn for a telecommunications company
   - **Payment_details**
   - **Measure_Table**
 - **Total Records:** 7,043 rows
-- **ERD:** Displays table relationships and primary keys for analysis.
+
+### Entity-Relationship Diagram (ERD)
+The ERD below provides an overview of the database structure and table relationships.
+![churn data model](https://github.com/user-attachments/assets/4fd8d97e-cd3f-433a-8461-890bca9b6ca6)
+
 ---
 ## 📈 Key Metrics  
 The top-level KPIs and visual insights include:  
@@ -25,7 +29,9 @@ The top-level KPIs and visual insights include:
 - **Average Churn Score:** 58.70  
 
 📌 These metrics highlight a significant **churn rate of 26.5%**, requiring focused interventions to address underlying issues.  
+Below is the Overview page from the PowerBI dashboard
 
+![Churn analysis Dashboard](https://github.com/user-attachments/assets/eeae2d8d-d24a-43f5-943f-bbc909078bd3)
 ---
 
 ## 📊 Visual Insights  
