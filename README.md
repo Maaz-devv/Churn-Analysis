@@ -1,7 +1,7 @@
 # 📊 Telco Churn Analysis 
 ## 📖 Table of Contents  
 
-- [📌 Overview](#-overview)  
+- [📌 Overview](#-overview)
 - [📈 Key Metrics](#-key-metrics)  
 - [📊 Visual Insights](#-visual-insights)  
   - [1️⃣ Churn by Internet Service](#1️⃣-churn-by-internet-service)  
